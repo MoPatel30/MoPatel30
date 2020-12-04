@@ -4,6 +4,7 @@ I am a second year here at Loyola University Chicago majoring in Computer Scienc
 
 
 Currently in search of Internship opportunities for Summer 2021 (Help me if you can!)
+
 I am also open to building or contributing to whatever project or program. Feel free to ask for help. I'll always give it my best!
 
 
