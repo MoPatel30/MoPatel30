@@ -18,7 +18,7 @@ Visit my portfolio page to learn more about me: https://mo-patel-portfolio.wixsi
 ### -  Ask me about Gaming & PCs, eSports, Blockchain, Technology, Basketball, Anime.
 
 ### - I enjoy tutoring and helping others learn. 
-##### 1. Currently a class assistant for a CS class, Visual Information Processing, at my university where I tutor roughly 30 students on the fundamentals of computer science and graphical processing. (Jan 2021 - Present)
+##### 1. Currently a class assistant for a CS class, Visual Information Processing, at my university where I tutor roughly 30 students (mostly freshmen/sophomore non-CS majors) on the fundamentals of computer science and graphical processing. (Jan 2021 - Present)
 ##### 2. Currently tutoring two freshmen classes consisting of 40 students at a local high school. (Aug 2020 - Present)
 ##### 3. High school academic tutoring for 3 years. (2016-2019)
 
