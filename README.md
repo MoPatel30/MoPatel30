@@ -6,8 +6,12 @@ Currently in search of Internship opportunities for Summer 2021 (Help me if you 
 
 I am also open to building or contributing to whatever project or program. Feel free to ask for help. I will always give it my best!
 
-
 Visit my portfolio page to learn more about me: https://mo-patel-portfolio.wixsite.com/portfolio
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mopatel30&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mopatel30&langs_count=5&theme=tokyonight)]()
+
 
 ## some things to know about me:
 ### -  I am currently working on full-stack development projects, web-applications, and any cool project idea that comes to mind!
