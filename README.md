@@ -9,14 +9,18 @@ I am also open to building or contributing to whatever project or program. Feel 
 Visit my portfolio page to learn more about me: https://mo-patel-portfolio.wixsite.com/portfolio
 
 
+
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mopatel30&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mopatel30&langs_count=5&theme=tokyonight)]()
 
 
+
+
 ## some things to know about me:
 ### -  I am currently working on full-stack development projects, web-applications, and any cool project idea that comes to mind!
-### -  I am currently learning more about frontend design & development, backend development (APIs, databases, etc.), and various other tech stacks.
-### -  I am looking to collaborate on more complex web-applications, and build projects geared towards user experience and providing a meaningful service. 
+### -  Learning more about frontend design & development, backend development (APIs, databases, etc.), and various other tech stacks.
+### -  Looking to collaborate on more complex web-applications, and build projects geared towards user experience and providing a meaningful service. 
 
 ### -  Also interested in blockchain development, Web3/Dapp Development, decentralization, privacy, among other things.
 ### -  Ask me about Gaming & PCs, eSports, Blockchain, Technology, Basketball, Anime.
