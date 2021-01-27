@@ -32,4 +32,4 @@ Visit my portfolio page to learn more about me: https://mo-patel-portfolio.wixsi
       -2. Currently tutoring two freshmen classes consisting of 40 students at a local high school. (Aug 2020 - Present)
       -3. High school academic tutoring for 3 years. (2016-2019)
 
-### How to reach me: mopatel1214@gmail.com (best way)
+### Best way to contact me: mopatel1214@gmail.com
