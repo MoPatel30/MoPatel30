@@ -2,6 +2,8 @@
 
 ### I am a second year at Loyola University Chicago majoring in Computer Science and minoring in Mathematics.
 
+### Currently building the next decentralized video protocol/platform with transparent monetization @GlassProtocol
+
 ### Visit my portfolio page to learn more about me: https://mo-patel-portfolio.wixsite.com/portfolio
 
 ### Currently in search of Internship opportunities for Summer 2021 (Help me if you can!)
@@ -28,7 +30,7 @@
       the professor and tutor roughly 20 students (mostly freshmen/sophomore non-CS majors) on the fundamentals of 
       computer science and graphical processing. (Jan 2021 - Present)
       -2. Currently tutoring two freshmen classes consisting of 40 students at a local high school. (Aug 2020 - Present)
-      -3. High school academic tutoring for 3 years. (2016-2019)
+      -3. High school academic tutoring for 3 years. (Aug 2016 - May 2019)
 
 
 I am also open to building or contributing to whatever project or program. Feel free to ask for help. I will always give it my best!
