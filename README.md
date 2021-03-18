@@ -33,7 +33,7 @@
 
 ## 
 
-### I am also open to building or contributing to whatever project or program. Feel free to ask for help. I will always give it my best!
+### I am also open to building or contributing to any project or program. Feel free to ask for help. I will always give it my best!
 
 ### Best way to contact me: mopatel1214@gmail.com
 
