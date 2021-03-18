@@ -1,6 +1,6 @@
 ## Hi there, my name is Mo Patel 👋
 
-I am a second year at Loyola University Chicago majoring in Computer Science and minoring in Mathematics.
+### I am a second year at Loyola University Chicago majoring in Computer Science and minoring in Mathematics.
 
 Currently in search of Internship opportunities for Summer 2021 (Help me if you can!)
 
