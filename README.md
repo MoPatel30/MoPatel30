@@ -31,8 +31,9 @@
       -2. Currently tutoring two freshmen classes consisting of 40 students at a local high school. (Aug 2020 - Present)
       -3. High school academic tutoring for 3 years. (Aug 2016 - May 2019)
 
+## 
 
-I am also open to building or contributing to whatever project or program. Feel free to ask for help. I will always give it my best!
+### I am also open to building or contributing to whatever project or program. Feel free to ask for help. I will always give it my best!
 
 ### Best way to contact me: mopatel1214@gmail.com
 
