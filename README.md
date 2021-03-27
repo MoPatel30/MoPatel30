@@ -16,7 +16,7 @@
 
 
 ## some things to know about me:
-### Currently building the next decentralized video protocol/platform with transparent monetization @GlassProtocol. Join the waitlist: https://glass.xyz/
+### Currently building the next decentralized video protocol/platform with transparent monetization @GlassProtocol.
 ### I am working on full-stack development projects, web-applications, and any cool project idea that comes to mind!
 ### Learning more about frontend design & development, backend development (APIs, databases, etc.), and various other tech stacks.
 ### Looking to collaborate on more complex applications/products, and build projects geared towards user experience and providing a meaningful service. 
@@ -33,7 +33,7 @@
 
 ## 
 
-### I am also open to building or contributing to any project or program. Feel free to ask for help. I will always give it my best!
+### I am also open to building or contributing to any project or program. Feel free to ask for help.
 
 ### Best way to contact me: mopatel1214@gmail.com
 
