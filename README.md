@@ -2,9 +2,9 @@
 
 ### I am a second year at Loyola University Chicago majoring in Computer Science and minoring in Mathematics.
 
-### Visit my portfolio page to learn more about me: https://mo-patel-portfolio.wixsite.com/portfolio
+### Currently building the next decentralized video protocol/platform with transparent monetization @GlassProtocol.
 
-### Currently in search of Internship opportunities for Summer 2021 (Help me if you can!)
+### Visit my portfolio page to learn more about me: https://mo-patel-portfolio.wixsite.com/portfolio
 
 
 
@@ -16,7 +16,6 @@
 
 
 ## some things to know about me:
-### Currently building the next decentralized video protocol/platform with transparent monetization @GlassProtocol.
 ### I am working on full-stack development projects, web-applications, and any cool project idea that comes to mind!
 ### Learning more about frontend design & development, backend development (APIs, databases, etc.), and various other tech stacks.
 ### Looking to collaborate on more complex applications/products, and build projects geared towards user experience and providing a meaningful service. 
