@@ -18,11 +18,10 @@
 ## some things to know about me:
 ### I am working on full-stack development projects, web-applications, and any cool project idea that comes to mind!
 ### Learning more about frontend design & development, backend development (APIs, databases, etc.), and blockchain development.
-
-##
-### Also interested in Web3/Dapp Development, decentralization, privacy, among other things.
+###  Interested in Web3/Dapp Development, decentralization, privacy, among other things.
 ### Ask me about Gaming & PCs, eSports, Blockchain, NFTs, DeFi, Technology, Basketball, Anime.
 
+##
 ### I really enjoy tutoring and helping others learn. 
       -1. Currently a teaching assistant for a CS class, Visual Information Processing, at my university where I assist 
       the professor and tutor roughly 20 students (mostly freshmen/sophomore non-CS majors) on the fundamentals of 
