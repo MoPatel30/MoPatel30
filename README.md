@@ -1,6 +1,6 @@
 ## Hi there, my name is Mo Patel 👋
 
-### I am a second year at Loyola University Chicago majoring in Computer Science and minoring in Mathematics.
+### I am an incoming 3rd year at Loyola University Chicago majoring in Computer Science and minoring in Mathematics.
 
 ### Currently building the next decentralized video protocol/platform with transparent monetization @GlassProtocol.
 
