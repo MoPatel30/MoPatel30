@@ -11,7 +11,7 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mopatel30&langs_count=5&theme=tokyonight)]()
 
 
-## some things to know about me:
+## Some things to know about me:
 ### Enjoy working on full-stack development projects, web-applications, and any cool project ideas that comes to mind!
 ### Learning more about frontend design & development, backend development (APIs, databases, etc.), and blockchain development.
 ### Interested in Web3/Dapp Development, decentralization, privacy, among other things.
@@ -24,6 +24,7 @@
       -2. AVID Tutoring - worked alongside tutors to prepare two freshmen classes, consisting of 40 students, who identify as qualified underrepresented/first-generation college students for higher education by providing academic aid in various courses such as English, Science, and Math. (Aug 2020 - May 2021)
       -3. High school academic peer-tutoring for 3 years. (Aug 2016 - May 2019)
   -->
+##
 
 ### I am also open to building or contributing to any project or program. Feel free to ask for help.
 
